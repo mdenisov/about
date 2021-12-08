@@ -3,7 +3,9 @@
   <br>👋 Hi, I'm Maxim.<br>
   <br> I'm a Frontend Web Developer. <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <div align="center">
+    <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="Coder GIF" width="680" height="428">
+  </div>
  </abc>
 </h3> 
 <h3 align="left">Languages and Tools:</h3>
