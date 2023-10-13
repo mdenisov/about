@@ -4,7 +4,7 @@
   <br> I'm a Frontend Web Developer. <br>
   <br>
   <div align="center">
-    <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="Coder GIF" width="680" height="428">
+   <img src="https://www.dropbox.com/scl/fi/7rezcf32772o6yju18py6/1_IRGHmiGsa16stedQvIaZfw.gif?rlkey=x625qaug0pzasxwcamux22o4v&dl=0" alt="Coder GIF" width="680" height="428">
   </div>
  </abc>
 </h3> 
