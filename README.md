@@ -4,7 +4,7 @@
   <br> I'm a Frontend Web Developer. <br>
   <br>
   <div align="center">
-   <img src="images/intro.gif" alt="Coder GIF" width="680" height="428">
+   <img src="images/intro.gif" alt="Coder GIF" width="680" height="428" />
   </div>
  </abc>
 </h3>
