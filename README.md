@@ -15,5 +15,5 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
-- :telescope: I'm currently working in Sravni.ru :alien:
+- :telescope: I'm currently working in R1 :alien:
 - :hourglass_flowing_sand: Experimenting with TS and React
